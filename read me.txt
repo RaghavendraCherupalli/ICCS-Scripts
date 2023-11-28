@@ -1,6 +1,6 @@
 Step 1:
 
-Open the folder that has the excel data and open the namechanger script in that folader so that we eliminate the spaces in the names of excel sheets.
+Open the folder that has the excel data and open the namechanger script in that folder so that we eliminate the spaces in the names of excel sheets.
 
 Step 2: 
 
