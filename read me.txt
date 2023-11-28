@@ -1,0 +1,18 @@
+Step 1:
+
+Open the folder that has the excel data and open the namechanger script in that folader so that we eliminate the spaces in the names of excel sheets.
+
+Step 2: 
+
+Create a folder named Ngram and 
+
+In line 93 change the file name as desider excel sheet that we have
+
+
+Run the n-gramword.py 
+
+
+Now enter the desired frequency pattern number such as 2 , 3, 4.
+
+
+the output results in a excel sheet with group name and each shhet in workbook has each frequency pattern.
